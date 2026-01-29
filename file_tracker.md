@@ -1,8 +1,9 @@
 ## Translation Progress
 
 Project Completion:
-| `░░░░░░░░░░░░░░░░░░░░` 0% |
+| `▓░░░░░░░░░░░░░░░░░░░` 2% |
 
+34/1494
 ---
 
 ### File Inventory
@@ -10,15 +11,19 @@ Project Completion:
 <details>
 <summary><b>📁 .\NDS_UNPACK\data\0\db (22 files)</b></summary>
 
+| `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░` 95% |
+
+21/22
+
 | File | File | File |
 | :--- | :--- | :--- |
-| - [ ] `esprotector.bdy` | - [ ] `esweapon.bdy` | - [ ] `ether001.bdy` |
-| - [ ] `ether002.bdy` | - [ ] `ether003.bdy` | - [ ] `ether004.bdy` |
-| - [ ] `ether005.bdy` | - [ ] `ether006.bdy` | - [ ] `ether007.bdy` |
-| - [ ] `item.bdy` | - [ ] `pcprotector.bdy` | - [ ] `pcweapon.bdy` |
-| - [ ] `skill.bdy` | - [ ] `sysmsg.bdy` | - [ ] `tech001.bdy` |
-| - [ ] `tech002.bdy` | - [ ] `tech003.bdy` | - [ ] `tech004.bdy` |
-| - [ ] `tech005.bdy` | - [ ] `tech006.bdy` | - [ ] `tech007.bdy` |
+| - [x] `esprotector.bdy` | - [x] `esweapon.bdy` | - [x] `ether001.bdy` |
+| - [x] `ether002.bdy` | - [x] `ether003.bdy` | - [x] `ether004.bdy` |
+| - [x] `ether005.bdy` | - [x] `ether006.bdy` | - [x] `ether007.bdy` |
+| - [x] `item.bdy` | - [x] `pcprotector.bdy` | - [x] `pcweapon.bdy` |
+| - [x] `skill.bdy` | - [x] `sysmsg.bdy` | - [x] `tech001.bdy` |
+| - [x] `tech002.bdy` | - [x] `tech003.bdy` | - [x] `tech004.bdy` |
+| - [x] `tech005.bdy` | - [x] `tech006.bdy` | - [x] `tech007.bdy` |
 | - [ ] `xenodict.bdy` |   |   |
 
 </details>
@@ -26,11 +31,15 @@ Project Completion:
 <details>
 <summary><b>📁 .\NDS_UNPACK\data\0\maptool (1429 files)</b></summary>
 
+| `░░░░░░░░░░░░░░░░░░░░` 0% |
+
+5/1429
+
 | File | File | File |
 | :--- | :--- | :--- |
-| - [ ] `000_001.evc` | - [ ] `000_500.evc` | - [ ] `000_501.evc` |
-| - [ ] `000_999.evc` | - [ ] `001_000.evc` | - [ ] `001_001.evc` |
-| - [ ] `001_010.evc` | - [ ] `001_020.evc` | - [ ] `001_030.evc` |
+| - [x] `000_001.evc` | - [ ] `000_500.evc` | - [ ] `000_501.evc` |
+| - [x] `000_999.evc` | - [ ] `001_000.evc` | - [x] `001_001.evc` |
+| - [x] `001_010.evc` | - [ ] `001_020.evc` | - [ ] `001_030.evc` |
 | - [ ] `001_040.evc` | - [ ] `001_050.evc` | - [ ] `001_100.evc` |
 | - [ ] `001_101.evc` | - [ ] `001_300.evc` | - [ ] `001_501.evc` |
 | - [ ] `001_997.evc` | - [ ] `001_998.evc` | - [ ] `001_999.evc` |
@@ -502,7 +511,7 @@ Project Completion:
 | - [ ] `999_019.evc` | - [ ] `999_020.evc` | - [ ] `999_021.evc` |
 | - [ ] `999_051.evc` | - [ ] `999_101.evc` | - [ ] `999_106.evc` |
 | - [ ] `999_108.evc` | - [ ] `999_111.evc` | - [ ] `999_116.evc` |
-| - [ ] `999_118.evc` | - [ ] `battleend.evc` | - [ ] `battletest.evc` |
+| - [ ] `999_118.evc` | - [ ] `battleend.evc` | - [x] `battletest.evc` |
 | - [ ] `card.bdy` | - [ ] `encount.evc` | - [ ] `fadeinonly.evc` |
 | - [ ] `mail.bdy` |   |   |
 
@@ -511,21 +520,29 @@ Project Completion:
 <details>
 <summary><b>📁 .\NDS_UNPACK\data\1\evc (22 files)</b></summary>
 
+| `▓▓▓▓▓▓▓░░░░░░░░░░░░░` 36% |
+
+8/22
+
 | File | File | File |
 | :--- | :--- | :--- |
-| - [ ] `001.evc` | - [ ] `003.evc` | - [ ] `004.evc` |
+| - [x] `001.evc` | - [x] `003.evc` | - [x] `004.evc` |
 | - [ ] `006.evc` | - [ ] `011.evc` | - [ ] `012.evc` |
 | - [ ] `015.evc` | - [ ] `017.evc` | - [ ] `018.evc` |
 | - [ ] `019.evc` | - [ ] `020.evc` | - [ ] `021.evc` |
 | - [ ] `022.evc` | - [ ] `024.evc` | - [ ] `025.evc` |
-| - [ ] `026.evc` | - [ ] `030.evc` | - [ ] `battletest.evc` |
-| - [ ] `btltutorial0.evc` | - [ ] `btltutorial1.evc` | - [ ] `btltutorial2.evc` |
-| - [ ] `btltutorial3.evc` |   |   |
+| - [ ] `026.evc` | - [ ] `030.evc` | - [x] `battletest.evc` |
+| - [x] `btltutorial0.evc` | - [x] `btltutorial1.evc` | - [x] `btltutorial2.evc` |
+| - [x] `btltutorial3.evc` |   |   |
 
 </details>
 
 <details>
 <summary><b>📁 .\NDS_UNPACK\data\2\Explain (21 files)</b></summary>
+
+| `░░░░░░░░░░░░░░░░░░░░` 0% |
+
+0/21
 
 | File | File | File |
 | :--- | :--- | :--- |

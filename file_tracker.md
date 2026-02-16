@@ -17,13 +17,13 @@ Project Completion:
 
 | File | File | File |
 | :--- | :--- | :--- |
-| - :white_check_mark: `esprotector.bdy` | - :white_check_mark: `esweapon.bdy` | - :white_check_mark: `ether001.bdy` |
-| - [x] `ether002.bdy` | - [x] `ether003.bdy` | - [x] `ether004.bdy` |
-| - [x] `ether005.bdy` | - [x] `ether006.bdy` | - [x] `ether007.bdy` |
-| - [x] `item.bdy` | - [x] `pcprotector.bdy` | - [x] `pcweapon.bdy` |
-| - [x] `skill.bdy` | - [x] `sysmsg.bdy` | - [x] `tech001.bdy` |
-| - [x] `tech002.bdy` | - [x] `tech003.bdy` | - [x] `tech004.bdy` |
-| - [x] `tech005.bdy` | - [x] `tech006.bdy` | - [x] `tech007.bdy` |
+| :white_check_mark: `esprotector.bdy` | :white_check_mark: `esweapon.bdy` | :white_check_mark: `ether001.bdy` |
+| :white_check_mark: `ether002.bdy` | :white_check_mark: `ether003.bdy` | :white_check_mark: `ether004.bdy` |
+| :white_check_mark: `ether005.bdy` | :white_check_mark: `ether006.bdy` | :white_check_mark: `ether007.bdy` |
+| :white_check_mark: `item.bdy` | :white_check_mark: `pcprotector.bdy` | :white_check_mark: `pcweapon.bdy` |
+| :white_check_mark: `skill.bdy` | :white_check_mark: `sysmsg.bdy` | :white_check_mark: `tech001.bdy` |
+| :white_check_mark: `tech002.bdy` | :white_check_mark: `tech003.bdy` | :white_check_mark: `tech004.bdy` |
+| :white_check_mark: `tech005.bdy` | :white_check_mark: `tech006.bdy` | :white_check_mark: `tech007.bdy` |
 | - [ ] `xenodict.bdy` |   |   |
 
 </details>
@@ -37,11 +37,11 @@ Project Completion:
 
 | File | File | File |
 | :--- | :--- | :--- |
-| - [x] `000_001.evc` | - [x] `000_500.evc` | - [x] `000_501.evc` |
-| - [x] `000_999.evc` | - [x] `001_000.evc` | - [x] `001_001.evc` |
-| - [x] `001_010.evc` | - [x] `001_020.evc` | - [x] `001_030.evc` |
-| - [x] `001_040.evc` | - [x] `001_050.evc` | - [x] `001_100.evc` |
-| - [x] `001_101.evc` | - [x] `001_300.evc` | - [ ] `001_501.evc` |
+| :white_check_mark: `000_001.evc` | :white_check_mark: `000_500.evc` | :white_check_mark: `000_501.evc` |
+| :white_check_mark: `000_999.evc` | :white_check_mark: `001_000.evc` | :white_check_mark: `001_001.evc` |
+| :white_check_mark: `001_010.evc` | :white_check_mark: `001_020.evc` | :white_check_mark: `001_030.evc` |
+| :white_check_mark: `001_040.evc` | :white_check_mark: `001_050.evc` | :white_check_mark: `001_100.evc` |
+| :white_check_mark: `001_101.evc` | :white_check_mark: `001_300.evc` | - [ ] `001_501.evc` |
 | - [ ] `001_997.evc` | - [ ] `001_998.evc` | - [ ] `001_999.evc` |
 | - [ ] `002_001.evc` | - [ ] `002_002.evc` | - [ ] `002_004.evc` |
 | - [ ] `002_005.evc` | - [ ] `002_006.evc` | - [ ] `002_007.evc` |
@@ -511,7 +511,7 @@ Project Completion:
 | - [ ] `999_019.evc` | - [ ] `999_020.evc` | - [ ] `999_021.evc` |
 | - [ ] `999_051.evc` | - [ ] `999_101.evc` | - [ ] `999_106.evc` |
 | - [ ] `999_108.evc` | - [ ] `999_111.evc` | - [ ] `999_116.evc` |
-| - [ ] `999_118.evc` | - [ ] `battleend.evc` | - [x] `battletest.evc` |
+| - [ ] `999_118.evc` | - [ ] `battleend.evc` | :white_check_mark: `battletest.evc` |
 | - [ ] `card.bdy` | - [ ] `encount.evc` | - [ ] `fadeinonly.evc` |
 | - [ ] `mail.bdy` |   |   |
 
@@ -526,14 +526,14 @@ Project Completion:
 
 | File | File | File |
 | :--- | :--- | :--- |
-| - [x] `001.evc` | - [x] `003.evc` | - [x] `004.evc` |
+| :white_check_mark: `001.evc` | :white_check_mark: `003.evc` | :white_check_mark: `004.evc` |
 | - [ ] `006.evc` | - [ ] `011.evc` | - [ ] `012.evc` |
 | - [ ] `015.evc` | - [ ] `017.evc` | - [ ] `018.evc` |
 | - [ ] `019.evc` | - [ ] `020.evc` | - [ ] `021.evc` |
 | - [ ] `022.evc` | - [ ] `024.evc` | - [ ] `025.evc` |
-| - [ ] `026.evc` | - [ ] `030.evc` | - [x] `battletest.evc` |
-| - [x] `btltutorial0.evc` | - [x] `btltutorial1.evc` | - [x] `btltutorial2.evc` |
-| - [x] `btltutorial3.evc` |   |   |
+| - [ ] `026.evc` | - [ ] `030.evc` | :white_check_mark: `battletest.evc` |
+| :white_check_mark: `btltutorial0.evc` | :white_check_mark: `btltutorial1.evc` | :white_check_mark: `btltutorial2.evc` |
+| :white_check_mark: `btltutorial3.evc` |   |   |
 
 </details>
 

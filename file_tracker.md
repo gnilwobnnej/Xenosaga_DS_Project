@@ -17,7 +17,7 @@ Project Completion:
 
 | File | File | File |
 | :--- | :--- | :--- |
-| - [x] `esprotector.bdy` | - [x] `esweapon.bdy` | - [x] `ether001.bdy` |
+| - :white_check_mark: `esprotector.bdy` | - :white_check_mark: `esweapon.bdy` | - :white_check_mark: `ether001.bdy` |
 | - [x] `ether002.bdy` | - [x] `ether003.bdy` | - [x] `ether004.bdy` |
 | - [x] `ether005.bdy` | - [x] `ether006.bdy` | - [x] `ether007.bdy` |
 | - [x] `item.bdy` | - [x] `pcprotector.bdy` | - [x] `pcweapon.bdy` |

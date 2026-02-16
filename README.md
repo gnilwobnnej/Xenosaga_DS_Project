@@ -4,6 +4,10 @@ The most ambitious project I've ever attempted
 ## This is a passion project of mine:
 If you come across this, please keep in mind that I am learning as I go and this read me will be kept as a log of sorts of what I am working on.
 
+## 2/15/2026
+
+I've decided not to update this and just concentrate on the project it self. I've run into some computer/power issues which has slowed me down a bit. But I shall continue on. There are some files that seem like they don't need translating, so I'm just going through and marking them completed. I found a way to keep track of things I'm working on and what needs to be uploaded to the master rom, I've decided to do them in batches and marking off on the list when I feel the need.
+
 ## 1/28/2026
 
 I feel like I spend most of my time trying to figure out the best way to keep track of everything. Made some new programs to find all the files. file_tracker.md shows all the files that need to be edited and ones that are done. An overall percentage tracker and ones by file.
